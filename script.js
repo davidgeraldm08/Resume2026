@@ -5,3 +5,7 @@ function goToLink(){
 function goToEmail(){
     window.location.href = "mailto:davidgeraldm08@gmail.com"
 };
+
+document.getElementById("phoneButton").addEventListener("click", function() {
+  window.location.href = "tel:+639764584968";
+});
