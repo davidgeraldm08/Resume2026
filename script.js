@@ -9,3 +9,6 @@ function goToEmail(){
 document.getElementById("phoneButton").addEventListener("click", function() {
   window.location.href = "tel:+639764584968";
 });
+
+
+window.alert('Welcome To my Digital Resume!')
