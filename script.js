@@ -11,4 +11,4 @@ document.getElementById("phoneButton").addEventListener("click", function() {
 });
 
 
-window.alert('Welcome To my Digital Resume!')
+
